@@ -1,2 +1,1 @@
-# CFM101-Robo-Advisor
-CFM 101 Group Assignment
+I'll take my fintech coop now
