@@ -1,6 +1,6 @@
 # robo-advisor
 
-Authors: Arya Patel (Lead), Sathun Suthakaran, Ishaan Bansal
+Authors: Arya Patel (Lead), Sahaj, Matthew
 
 Themes: Quantitative Analysis, Computational Finance, Capital Markets
 
